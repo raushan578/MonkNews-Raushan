@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonkNews-Raushan/static/css/main.a617e044.chunk.css",
+    "main.js": "/MonkNews-Raushan/static/js/main.f1fe452c.chunk.js",
+    "main.js.map": "/MonkNews-Raushan/static/js/main.f1fe452c.chunk.js.map",
+    "runtime-main.js": "/MonkNews-Raushan/static/js/runtime-main.3435dc6a.js",
+    "runtime-main.js.map": "/MonkNews-Raushan/static/js/runtime-main.3435dc6a.js.map",
+    "static/js/2.1cb97737.chunk.js": "/MonkNews-Raushan/static/js/2.1cb97737.chunk.js",
+    "static/js/2.1cb97737.chunk.js.map": "/MonkNews-Raushan/static/js/2.1cb97737.chunk.js.map",
+    "static/js/3.371e2159.chunk.js": "/MonkNews-Raushan/static/js/3.371e2159.chunk.js",
+    "static/js/3.371e2159.chunk.js.map": "/MonkNews-Raushan/static/js/3.371e2159.chunk.js.map",
+    "index.html": "/MonkNews-Raushan/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/MonkNews-Raushan/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1cb97737.chunk.js.LICENSE.txt": "/MonkNews-Raushan/static/js/2.1cb97737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3435dc6a.js",
+    "static/js/2.1cb97737.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f1fe452c.chunk.js"
+  ]
+}
